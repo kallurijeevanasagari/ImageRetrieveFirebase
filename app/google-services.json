@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "827580656606",
+    "firebase_url": "https://cobalt-psyche-141406.firebaseio.com",
+    "project_id": "cobalt-psyche-141406",
+    "storage_bucket": "cobalt-psyche-141406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827580656606:android:6799aabc31627538",
+        "android_client_info": {
+          "package_name": "com.example.hp.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827580656606-q6ufj9b5r4uqsvptom4ba2vbb8nvpgbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACX3SuJoWGPRHJddjb5hW-WMbHd7Lvjlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827580656606:android:b063aed7de19966c",
+        "android_client_info": {
+          "package_name": "com.example.hp.imageretrievewithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827580656606-q6ufj9b5r4uqsvptom4ba2vbb8nvpgbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACX3SuJoWGPRHJddjb5hW-WMbHd7Lvjlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
